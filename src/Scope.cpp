@@ -379,4 +379,4 @@ struct ScopeWidget : ModuleWidget {
 };
 
 
-Model* modelScope = createModel<Scope, ScopeWidget>("Scope");
+Model* modelScope = createModel<Scope, ScopeWidget>("SpartanScope");

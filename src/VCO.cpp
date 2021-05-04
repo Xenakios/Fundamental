@@ -382,7 +382,7 @@ struct VCOWidget : ModuleWidget {
 };
 
 
-Model* modelVCO = createModel<VCO, VCOWidget>("VCO");
+Model* modelVCO = createModel<VCO, VCOWidget>("SpartanVCO");
 
 
 struct VCO2 : Module {
